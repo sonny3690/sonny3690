@@ -3,7 +3,7 @@
 I'm a student at Brown currently studying Computer Science and History! Feel free to check out my [website](https://sonnymo.me) and I'm currently taking the Fall semester off to build things 🛠️.
 
 ## 🎾 Currently...
-- Working on Contour, a project that seeks to change the way we document code.
+- Working on [Bloom (YC S21)](https://joinbloom.co)
 - Trying to learn more about compilers & how to play tennis 
 - Reading more [biology and sci-fi](https://www.goodreads.com/user/show/81688031-sonny-mo)
 
