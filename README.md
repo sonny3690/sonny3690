@@ -1,6 +1,5 @@
 
 ## 👋 Sonny Mo - @sonny3690 ⚽
-I'm a student at Brown currently studying Computer Science and History! Feel free to check out my [website](https://sonnymo.me) and I'm currently taking the Fall semester off to build things 🛠️.
 
 ## 🎾 Currently...
 - Working on [Bloom (YC S21)](https://joinbloom.co)
@@ -8,8 +7,7 @@ I'm a student at Brown currently studying Computer Science and History! Feel fre
 - Reading more [biology and sci-fi](https://www.goodreads.com/user/show/81688031-sonny-mo)
 
 ## 🌟 Past 
-- Built [Poisson](https://poisson.us), a novel calendar assistant.
-- Software Engineer Intern at [Snowflake](https://www.snowflake.com).
+- Software Engineering at [Snowflake](https://www.snowflake.com).
 - Co-founded [Cress Health](https://cresshealth.com) where I was CTO.
 
 ## ☕ Wanna Chat? 
