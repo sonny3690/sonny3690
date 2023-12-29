@@ -1,14 +1,9 @@
 
 ## 👋 Sonny Mo - @sonny3690 ⚽
 
-## 🎾 Currently...
-- Working on [Bloom (YC S21)](https://joinbloom.co)
-- Trying to learn more about compilers & how to play tennis 
-- Reading more [biology and sci-fi](https://www.goodreads.com/user/show/81688031-sonny-mo)
-
 ## 🌟 Past 
+- Founded [Bloom (YC S21)](https://bloomapp.com)
 - Software Engineering at [Snowflake](https://www.snowflake.com).
-- Co-founded [Cress Health](https://cresshealth.com) where I was CTO.
 
 ## ☕ Wanna Chat? 
 Shoot me an [email](mailto:sonny3690@gmail.com)! Open to DMs on [Twitter](https://twitter.com/sonny3690) as well.
